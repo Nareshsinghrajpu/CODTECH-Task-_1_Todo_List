@@ -1,4 +1,4 @@
-HTML CODE
+/*HTML CODE */
 
 <!DOCTYPE html>
 <html lang="en" data-theme="bumblebee">
@@ -81,7 +81,7 @@ HTML CODE
 
 </html>
 
-CSS CODE
+/* CSS CODE */
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;800;900&display=swap');
 
@@ -364,7 +364,7 @@ dropdown*/
 }
 
 
-JAVASCRIPT CODE
+/* JAVASCRIPT CODE */
 
 var todoList = []
 var comdoList = [];
